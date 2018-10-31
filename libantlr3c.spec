@@ -5,7 +5,7 @@
 Summary:	Library for accessing antlr
 Name:		libantlr3c
 Version:	3.4
-Release:	1
+Release:	2
 License:	LGPLv2+
 Group:		System/Libraries
 Url:		http://www.antlr3.org
