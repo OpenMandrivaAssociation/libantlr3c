@@ -8,7 +8,7 @@ Version:	3.4
 Release:	3
 License:	LGPLv2+
 Group:		System/Libraries
-Url:		http://www.antlr3.org
+Url:		https://www.antlr3.org
 Source0:	http://www.antlr3.org/download/C/libantlr3c-3.4.tar.gz
 
 %description
